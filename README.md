@@ -1,3 +1,5 @@
+> Security review required: the inherited Graph API / GetOrganizationUsers example has an open potential application-secret alert (validity unknown). Do not import it pending review. See [security guidance](CURATOR_SECURITY.md).
+
 > Curated learning fork maintained by [Mudit Dholakia](https://github.com/muditdholakia). Original source: [pnp/powerautomate-samples](https://github.com/pnp/powerautomate-samples). See [curation purpose and setup](CURATOR_README.md) and [security guidance](CURATOR_SECURITY.md). Upstream authorship and license are retained.
 
 # Power Automate Samples
