@@ -12,3 +12,11 @@ Deployment is manual; cloud resources and premium connectors may incur charges.
 Report vulnerabilities privately through GitHub private vulnerability reporting when
 enabled. Do not disclose credentials in public issues. Rotate accidentally exposed secrets
 immediately; deleting a file does not remove it from history.
+
+## Dependency audit snapshot
+
+GitHub reported 0 open dependency alerts on 2026-09-15.
+Severity counts: `{}`.
+These counts cover the upstream sample collection and are not proof that every sample is exploitable.
+Review alerts for the selected sample, remediate dependencies, and test before execution.
+Fork workflows remain disabled. Secret-scanning results are a point-in-time check, not a complete security audit.
